@@ -15,6 +15,7 @@
 |2024|second<br> newSpecifcation
 |2024.3|now
 
+## 2024.3.12 リモートリポジトリを　GitHub に作成
 
 ## 2024.3.11 add commit
 ## 画像挿入
